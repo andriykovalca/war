@@ -14,3 +14,35 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.losses h2 {
+  text-align: center;
+}
+
+.item {
+  margin: 20px;
+  width: 150px;
+  
+}
+
+.name, .num {
+  display: block;
+  text-align: center;
+}
+
+.name {
+  margin-bottom: 10px;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+}
