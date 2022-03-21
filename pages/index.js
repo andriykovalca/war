@@ -44,7 +44,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/troops.png"
+                  src="/images/troops.png"
                   alt="troops icon"
                   width={50}
                   height={50}
@@ -57,7 +57,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/airplane.png"
+                  src="/images/airplane.png"
                   alt="airplane icon"
                   width={50}
                   height={50}
@@ -69,7 +69,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/helicopter.png"
+                  src="/images/helicopter.png"
                   alt="helicopter icon"
                   width={50}
                   height={50}
@@ -81,7 +81,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/tank.png"
+                  src="/images/tank.png"
                   alt="tank icon"
                   width={50}
                   height={50}
@@ -93,7 +93,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/afv.png"
+                  src="/images/afv.png"
                   alt="AFV icon"
                   width={50}
                   height={50}
@@ -105,7 +105,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/artillery.png"
+                  src="/images/artillery.png"
                   alt="artillery icon"
                   width={50}
                   height={50}
@@ -117,7 +117,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/antiair.png"
+                  src="/images/antiair.png"
                   alt="anti aircraft icon"
                   width={50}
                   height={50}
@@ -129,7 +129,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/mrl.png"
+                  src="/images/mrl.png"
                   alt="MRL icon"
                   width={50}
                   height={50}
@@ -141,7 +141,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/fuel.png"
+                  src="/images/fuel.png"
                   alt="fuel truck icon"
                   width={50}
                   height={50}
@@ -153,7 +153,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
               <Image
-                src="/../public/images/uav.png"
+                src="/images/uav.png"
                 alt="UAV icon"
                 width={50}
                 height={50}
@@ -165,7 +165,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/ship.png"
+                  src="/images/ship.png"
                   alt="ship icon"
                   width={50}
                   height={50}
@@ -177,7 +177,7 @@ export default function Home() {
             <div className='item'>
               <div className='icon'>
                 <Image
-                  src="/../public/images/vehicle.png"
+                  src="/images/vehicle.png"
                   alt="vehicle icon"
                   width={50}
                   height={50}
