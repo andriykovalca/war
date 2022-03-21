@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Russian Ukrainian War</title>
+        <title>War</title>
         <meta name="description" content="Russian Ukrainian War" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -199,6 +199,7 @@ export default function Home() {
         <a
           href="http://andriykoval.ca/"
           target="_blank"
+          rel="noreferrer"
         >
           Made by Andriy Koval
         </a>
